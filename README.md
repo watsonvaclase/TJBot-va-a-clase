@@ -1,7 +1,6 @@
 
 
-
-# Manuals for TJBotES
+## Manuales para TJBotES
 
 Carpeta _**bring-to-life**_ contiene manual para configurar la Raspberry pi, subir un programa ejemplo y probarlo
 
